@@ -3,4 +3,4 @@
 * Biomedical engineer ⛑️
 * Sience and tech enthusiast 👨‍🔬
 
-If you are looking for Android/Flutter and other development stuff, visit my page: [https://tomasrepcik.dev/](https://tomasrepcik.dev/)
+If you are looking for Android/Flutter or ways to contact me, visit my page: [https://tomasrepcik.dev/](https://tomasrepcik.dev/)
